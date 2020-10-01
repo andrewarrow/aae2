@@ -11,3 +11,4 @@
 002
 
 - Lets remove the stock content and start making this our website
+- Looking good, but our /about-us page doesn't match
