@@ -12,3 +12,15 @@
 
 - Lets remove the stock content and start making this our website
 - Looking good, but our /about-us page doesn't match
+
+003
+
+- We need a way to make any page, look like this first index.tmpl
+- Lets take the top of it, and place it in a _header file
+- with define header at top, and end at the end
+- back in index.tmpl lets insert this template at the top
+- back in main.go lets make AboutUs more like WelcomeIndex
+- copy index.tmpl to a new about_us.tmpl
+- change the content
+- and /about-us looks great
+

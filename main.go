@@ -12,7 +12,7 @@ func WelcomeIndex(c *gin.Context) {
 }
 
 func AboutUs(c *gin.Context) {
-	c.String(http.StatusOK, "we are a new website")
+	c.HTML(http.StatusOK, "about_us.tmpl", gin.H{})
 }
 
 func Custom404(c *gin.Context) {
