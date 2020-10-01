@@ -20,7 +20,27 @@
 - with define header at top, and end at the end
 - back in index.tmpl lets insert this template at the top
 - back in main.go lets make AboutUs more like WelcomeIndex
+- (remember to type go build after)
 - copy index.tmpl to a new about_us.tmpl
 - change the content
 - and /about-us looks great
 
+004
+
+- this works for the 404 route too
+- and now all 3 pages look nice
+
+005
+
+- lets add a new page for login
+
+006
+
+- lets put a form on that page
+- notice the method and action
+- we redirect after a form post
+
+007
+
+- we can Println the stuff they type in the login form
+- see it with our own eyes
