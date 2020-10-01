@@ -1,0 +1,13 @@
+001
+
+- The reason the HTML doesn't look right yet is because there are CSS
+- images
+- and js files not in the right path yet
+
+- we'll just add /assets in front of them all and
+- cp -r over the directories and
+- now it looks right 
+
+002
+
+- Lets remove the stock content and start making this our website
