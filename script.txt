@@ -20,7 +20,6 @@
 - with define header at top, and end at the end
 - back in index.tmpl lets insert this template at the top
 - back in main.go lets make AboutUs more like WelcomeIndex
-- (remember to type go build after)
 - copy index.tmpl to a new about_us.tmpl
 - change the content
 - and /about-us looks great
